@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarjeetkumar7&label=Profile%20views&color=0e75b6&style=flat" alt="amarjeetkumar7" /> </p>
 
-- 🔭 I’m had completed frontend [Hotel Management App](https://hotel-app-liard-ten.vercel.app/)
+- 🔭 I had completed frontend [Hotel Management App](https://hotel-app-liard-ten.vercel.app/)
 
 - 🌱 I’m currently learning **Nextjs, CSS tools like framer motion,Three js, DSA**
 
